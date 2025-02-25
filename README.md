@@ -7,7 +7,7 @@
       <p>🔭 I’m currently working on <strong>Portfolio Generator</strong></p>
       <p>🌱 I’m currently learning <strong>Spring Framework and AWS</strong></p>
       <p>💬 Ask me about <strong>Django and Deep Learning</strong></p>
-      <p>📫 React me at <strong>mihirpg2014@gmail.com</strong></p>
+      <p>📫 Reach me at <strong>mihirpg2014@gmail.com</strong></p>
       <p>⚡ Fun fact: <strong>I play piano, but I keep it to the keys, not meetings!</strong></p>
     </td>
     <td style="width: 40%; vertical-align: top;">
