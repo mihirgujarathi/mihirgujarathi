@@ -4,7 +4,7 @@
 <table align="center">
   <tr>
     <td style="width: 60%; vertical-align: top;">
-      <p>🔭 I’m currently working on <strong>Portfolio Generator</strong></p>
+      <p>🔭 I’m currently working on <strong>AI Powered Finance Portfolio Optimizer</strong></p>
       <p>🌱 I’m currently learning <strong>Spring Framework and AWS</strong></p>
       <p>💬 Ask me about <strong>Django and Deep Learning</strong></p>
       <p>📫 Reach me at <strong>mihirpg2014@gmail.com</strong></p>
